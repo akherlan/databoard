@@ -1,0 +1,6 @@
+- path: quake
+  name: quake
+  rows: 6667
+  cols: 13
+  description: eartquakes event around the world
+  type: table
