@@ -1,0 +1,21 @@
+path:
+- data.csv
+- data.rds
+rows: 70631
+cols: 13
+columns:
+  tanggal: Date
+  waktu: character
+  lat: numeric
+  lon: numeric
+  kdlm.KM: numeric
+  mag.SR: numeric
+  typemag: factor
+  smaj: numeric
+  smin: numeric
+  az: integer
+  rms: numeric
+  cphase: integer
+  region: character
+description: Data gempa seluruh dunia 2009-2018
+type: table
