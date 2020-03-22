@@ -4,3 +4,9 @@
   cols: 13
   description: eartquakes event around the world
   type: table
+- path: gempa
+  name: gempa
+  rows: 70631
+  cols: 13
+  description: Data gempa seluruh dunia 2009-2018
+  type: table
