@@ -1,0 +1,14 @@
+path:
+- data.csv
+- data.rds
+rows: 1532
+cols: 6
+columns:
+  name: character
+  lon: numeric
+  lat: numeric
+  start: POSIXct
+  end: POSIXct
+  dur: Duration
+description: Sample data rekaman GPS dari Google Maps dari akun Andi selama 2019.
+type: table
