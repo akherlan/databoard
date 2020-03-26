@@ -10,3 +10,9 @@
   cols: 13
   description: Data gempa seluruh dunia 2009-2018
   type: table
+- path: sample_gmap_data
+  name: sample_gmap_data
+  rows: 1532
+  cols: 6
+  description: Sample data rekaman GPS dari Google Maps dari akun Andi selama 2019.
+  type: table
