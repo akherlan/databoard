@@ -23,3 +23,8 @@ pin_find(text = "eartquake", board = "databoard")
 # menggunakan dataset
 gempa <- pin_get("quake", board = "databoard")
 ```
+Terima kasih.
+
+-----
+
+<center><p>Hosted on <a href='https://github.com/akherlan/dataset'>Github Page<a></p></center>
