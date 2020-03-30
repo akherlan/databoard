@@ -1,1 +1,6 @@
 title: Databoard
+navbar:
+  title: Databoard
+  right:
+   - text: Twitter
+   - href: https://twitter.com/terusterang__
