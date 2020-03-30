@@ -27,4 +27,4 @@ Terima kasih.
 
 -----
 
-<center><p>Hosted on <a href='https://github.com/akherlan/dataset'>Github Page<a></p></center>
+<center>Hosted on <a href='https://github.com/akherlan/dataset'>gihub page</a>.</center>
