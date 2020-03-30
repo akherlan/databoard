@@ -16,3 +16,9 @@
   cols: 6
   description: Sample data rekaman GPS dari Google Maps dari akun Andi selama 2019.
   type: table
+- path: postalcode
+  name: postalcode
+  rows: 82509
+  cols: 6
+  description: Kode pos seluruh wilayah Indonesia (34 provinsi)
+  type: table
