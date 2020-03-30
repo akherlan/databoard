@@ -4,11 +4,11 @@ path:
 rows: 82509
 cols: 6
 columns:
-  provinsi: factor
-  kab_kot: factor
-  nama_kabkot: factor
-  kecamatan: factor
-  kelurahan_desa: factor
-  kodepos: integer
+  provinsi: character
+  kab_kot: character
+  nama_kabkot: character
+  kecamatan: character
+  kelurahan_desa: character
+  kodepos: character
 description: Kode pos seluruh wilayah Indonesia (34 provinsi)
 type: table
